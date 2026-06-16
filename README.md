@@ -19,10 +19,6 @@ A simple and responsive **Calculator Application** built using **React.js**. Thi
 * HTML5
 * CSS3
 
-## 📸 Project Preview
-
-Add your project screenshot here.
-
 ```md
 ![Calculator Preview](screenshot.png)
 ```
@@ -69,9 +65,9 @@ Add your deployed live link here.
 
 ## 📁 GitHub Repository
 
-Add your GitHub repository link here.
+https://shaban-react-calculator.netlify.app/
 
 ## 👨‍💻 Author
 
-**Shaban**
-Frontend / MERN Stack Learner 🚀
+**Shaban Rasheed**
+
