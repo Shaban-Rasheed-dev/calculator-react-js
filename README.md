@@ -64,8 +64,7 @@ Through this project, I practiced:
 https://shaban-react-calculator.netlify.app/
 
 ## 📁 GitHub Repository
-
-
+https://github.com/Shaban-Rasheed-dev/calculator-react-js
 
 ## 👨‍💻 Author
 
