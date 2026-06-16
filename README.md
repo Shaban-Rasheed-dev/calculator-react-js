@@ -61,11 +61,11 @@ Through this project, I practiced:
 
 ## 🔗 Live Demo
 
-Add your deployed live link here.
+https://shaban-react-calculator.netlify.app/
 
 ## 📁 GitHub Repository
 
-https://shaban-react-calculator.netlify.app/
+
 
 ## 👨‍💻 Author
 
