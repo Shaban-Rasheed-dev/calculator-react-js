@@ -19,9 +19,7 @@ A simple and responsive **Calculator Application** built using **React.js**. Thi
 * HTML5
 * CSS3
 
-```md
-![Calculator Preview](screenshot.png)
-```
+
 
 ## 📂 Installation & Setup
 
