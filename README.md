@@ -26,7 +26,7 @@ A simple and responsive **Calculator Application** built using **React.js**. Thi
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/Shaban-Rasheed-dev/calculator-react-js.git
 ```
 
 Navigate to the project folder:
