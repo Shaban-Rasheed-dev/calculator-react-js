@@ -32,7 +32,7 @@ git clone https://github.com/Shaban-Rasheed-dev/calculator-react-js.git
 Navigate to the project folder:
 
 ```bash
-cd your-project-folder
+cd calculator-react-js
 ```
 
 Install dependencies:
